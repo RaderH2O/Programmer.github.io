@@ -1,0 +1,24 @@
+body{
+	font-family: sans-serif;
+	background: #2B2B52;
+	color: white;
+	margin: 0px 20px;
+}
+.nav {
+	position: absolute;
+	background: #8B78E6;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	align-items: center;
+}
+.nav h1 {
+	margin: 20px;
+}
+.nav a {
+	color: #2B2B52;
+	text-decoration: none;
+}
+.nav a:hover {
+	text-decoration: underline;
+}
